@@ -2,6 +2,8 @@
 
 Import Node.js workers with `?nodeWorker` in Vite. HMR support in dev, separate chunks in build.
 
+An updated version of https://github.com/alex8088/electron-vite/blob/master/src/plugins/worker.ts with support for `dev`, not just `build`.
+
 ```bash
 npm install vite-node-worker
 ```
